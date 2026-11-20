@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-# Pages carry a noindex tag until launch. The sitemap line is added when the custom domain is connected.
+# Pages carry a noindex tag until launch.
+Sitemap: https://everybottleneck.com/sitemap.xml
